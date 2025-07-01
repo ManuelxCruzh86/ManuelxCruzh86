@@ -9,7 +9,7 @@
 <h3 align="center">Libraries & Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,tailwind" />
   </a>
 </p>
 
@@ -17,6 +17,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+  </a>
+</p>
+
+<h3 align="center">Other technologies:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,pycharm,postman,obsidian,figma,dotnet,unreal,androidstudio,vscode,visualstudio" />
   </a>
 </p>
 <!--
