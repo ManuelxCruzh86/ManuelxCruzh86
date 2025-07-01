@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,cs" />
+    <img src="https://skillicons.dev/icons?i=py,js,cpp,cs" />
   </a>
 </p>
 <!--
