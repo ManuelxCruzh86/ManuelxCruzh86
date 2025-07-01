@@ -41,9 +41,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelxCruzh86&theme=dark&hide_border=true"/>
-</p>
 
 <!--
 **ManuelxCruzh86/ManuelxCruzh86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
