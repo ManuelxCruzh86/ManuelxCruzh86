@@ -1,4 +1,5 @@
 ## Hi there 👋
+<h3 align="center">Programming languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,php,py" />
@@ -9,6 +10,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind" />
+  </a>
+</p>
+
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
   </a>
 </p>
 <!--
