@@ -40,8 +40,7 @@
   </a>
 </p>
 
-## 🤝 Connect with me
-
+<h1 align="center">🤝 Connect with me</h1>
 <p align="center">
 	<a href="mailto:manuel.cruzxh686@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/manuel-alejandro-cruz-hernandez-5062592b2/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
