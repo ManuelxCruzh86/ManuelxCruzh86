@@ -1,5 +1,16 @@
 <h1 align="center">Hi, I'm Manuel Cruz<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">Hi there! I’m a passionate software developer with a constant hunger for learning and building solutions. enjoy diving deep into both frontend and backend technologies. optimizing performance, or contributing to open-source, I’m always eager to level up and take on new challenges, Currently focused on JavaScript, Angular and .NET but always exploring new horizons in tech.</h3>
+
+### ⚙️ &nbsp;GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ManuelxCruzh86">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuelxCruzh86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ManuelxCruzh86">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <h3 align="center">Programming languages:</h3>
 <p align="center">
@@ -38,17 +49,6 @@
 </p>
 
 
-
-### ⚙️ &nbsp;GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ManuelxCruzh86">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuelxCruzh86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ManuelxCruzh86">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 
 <!--
