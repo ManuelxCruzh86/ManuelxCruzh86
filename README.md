@@ -1,14 +1,14 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,php,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,php,py" />
   </a>
 </p>
 
-<h3 align="center">Frameworks:</h3>
+<h3 align="center">Libraries & Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,php,py" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind" />
   </a>
 </p>
 <!--
