@@ -19,17 +19,10 @@
   </a>
 </p>
 
-<h3 align="center">Libraries & Frameworks:</h3>
+<h3 align="center">Libraries, Frameworks & Databases:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,tailwind" />
-  </a>
-</p>
-
-<h3 align="center">Databases:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,tailwind,mysql,postgres,mongodb,firebase" />
   </a>
 </p>
 
