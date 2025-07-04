@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manuel Cruz<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Hi there! I’m a passionate software developer with a constant hunger for learning and building solutions. enjoy diving deep into both frontend and backend technologies. optimizing performance, or contributing to open-source, I’m always eager to level up and take on new challenges, Currently focused on JavaScript, Angular and .NET but always exploring new horizons in tech.</h3>
 
- 
+
 <h1 align="left">⚙️ &nbsp;GitHub Stats</h1>
 <p align="center">
   <a href="https://github.com/ManuelxCruzh86">
