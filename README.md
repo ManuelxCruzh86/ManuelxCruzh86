@@ -9,10 +9,9 @@
   </a>
   <a href="https://github.com/ManuelxCruzh86">
 	<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&theme=aura&langs_count=9" />
+	  <img height="150" />
 </p>
-<h1 align="center"></h1>
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+
 <!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&langs_count=8&theme=algolia"/>
  -->
 
