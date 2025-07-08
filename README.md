@@ -13,6 +13,7 @@
 </p>
 
 <!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&langs_count=8&theme=algolia"/>
+theme=aura&langs_count=9
  -->
 
 <h3 align="center">Programming languages:</h3>
