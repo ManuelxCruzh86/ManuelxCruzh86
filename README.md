@@ -11,11 +11,12 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p> -->
-
+<p align="center">
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=ManuelxCruzh86&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
+</p>
 
 
 <h3 align="center">Programming languages:</h3>
