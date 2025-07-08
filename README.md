@@ -8,7 +8,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuelxCruzh86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/ManuelxCruzh86">
-	<img align="right" height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&theme=aura&langs_count=9" />
+	<img align="right" height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelxCruzh86&layout=compact&theme=aura&langs_count=9" />
 	  <img height="150" />
 </p>
 
